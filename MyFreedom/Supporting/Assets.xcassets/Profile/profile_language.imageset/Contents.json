@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "profile_language.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
